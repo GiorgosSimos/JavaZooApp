@@ -1,9 +1,9 @@
 package zooProject;
 
 /*
- * @author:Georgios Simos
- * @version 1.0
- * Project: Madagascar Zoo management system - Java Console App(Unipi Assignment - OOP)
+ * @author: Georgios Simos
+ * @version 1.0.1
+ * Project: Madagascar Zoo management system - Java Console App (Unipi Assignment - OOP)
  * lines 16 to 26 are used to create initial data for testing purposes
  */
 import java.io.*;
