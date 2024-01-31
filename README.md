@@ -1,2 +1,2 @@
 # JavaZooApp
-A zoo management app created in Java with OOP
+A zoo management console app created in Java, using Object-Oriented Programming (OOP).
