@@ -20,7 +20,7 @@ A simple console-based zoo management system built in Java, designed to demonstr
 - **Polymorphism**: Overridden `toString()` and `feedAnimal()` behavior
 - **Serialization**: Saving/loading objects via `zoo_animals.ser`
 
-## 🧪 Technologies Used
+## 🔧 Technologies Used
 
 - Java 17+
 - Java Serialization
@@ -29,9 +29,16 @@ A simple console-based zoo management system built in Java, designed to demonstr
 ## 📦 How to Run
 
 1. Clone the repository
-2. Compile with any Java IDE (or command line)
+2. Compile with any Java IDE
 3. Run the `SerializationActions` class to use the zoo app
 
+## 🖥️ Run in Terminal:
+1. Download the zip file
+2. Open a terminal and navigate to the project root directory (`JavaZooApp-main`). 
+3. Compile the Java source files to an `out` folder and run the `SerializationActions` class:
+
 ```bash
-javac *.java
-java zooProject.SerializationActions
+javac -d out src/zooProject/*.java
+java -cp out zooProject.SerializationActions
+
+
